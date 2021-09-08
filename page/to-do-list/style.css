@@ -104,3 +104,7 @@ input {
 .addBtn:hover {
   background-color: #bbb;
 }
+
+body {
+  font-family: "Quicksand";
+}
