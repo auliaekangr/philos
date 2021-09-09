@@ -1,7 +1,11 @@
 #a{
   background-color: #9EC97C;
 }
-
+ 
 body {
-  font-family: "Quicksand";
+font-family: "Quicksand";
+}
+
+#navbar {
+  background-color: #9EC97C;
 }
